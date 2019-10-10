@@ -1,0 +1,27 @@
+Categories,Ways tio score,Effect,Description
+Win,winInd,,team wins the game
+,rank,,team beats a ranked team
+,score,,margin of victory or loss
+First Downs,firstDowns,,number of first downs
+,thridDownEff,,team thrid down percentage
+,foruthDownEff,,team fourth down percentage
+Passing Yards,netPassingYards,,number of passing yards
+,completionAttempts,,percentage of completed passes
+,passing_TD,,passing touchdowns
+,passing_INT,,passing interceptions
+Rushing Yards,rushingYards,,number of rushing yards
+,rushingAttempts,,number of carries
+,rushing_TD,,rushing touchdowns
+Defensive Efficiency,netPassingYards,,opp. Passing yards
+,rushingYards,,opp. Rushing yards
+,defensive_SACKS,,defensive sacks
+,defensive_TD,,defensive touchdowns
+,fumbles_FUM,,fumbles caused by the defense
+,fumbles_REC,,fumbles recovered by the defense
+,interceptions_INT,,interceptions
+,interceptions_TD,,interceptions returned for a touchdown
+,interceptions_YDS,,yards returned on interceptions
+Special Teams,kicking_PCT,,field goal percentage
+,kicking_LONG,,longest field goal
+,kicking_XP,,extra point (fraction)
+,kicking_PTS,,kicking points
